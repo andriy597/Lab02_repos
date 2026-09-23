@@ -23,7 +23,8 @@ int main()
 	cout << endl;
 	cout << "z1 = " << z1 << endl;
 	cout << "z2 = " << z2 << endl;
-	cout << "Програма завершена" << endl;
+	cout << "Program ended" << endl;
+	cout << "This is branch_02 version" << endl;
 
 	cin.get();//зупиняє консоль
 	return 0;
