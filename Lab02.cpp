@@ -23,6 +23,7 @@ int main()
 	cout << endl;
 	cout << "z1 = " << z1 << endl;
 	cout << "z2 = " << z2 << endl;
+	cout << "Програма завершена" << endl;
 
 	cin.get();//зупиняє консоль
 	return 0;
