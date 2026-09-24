@@ -23,10 +23,15 @@ int main()
 	cout << endl;
 	cout << "z1 = " << z1 << endl;
 	cout << "z2 = " << z2 << endl;
+
 	cout << "Program ended" << endl;
 	cout << "This is branch_02 version" << endl;
+	cout << "Програма завершена" << endl;
+	cout << "This is master branch version" << endl;
+
 
 	cin.get();//зупиняє консоль
 	return 0;
 }
 // зміна 1
+//зміна для 3-го завдання
